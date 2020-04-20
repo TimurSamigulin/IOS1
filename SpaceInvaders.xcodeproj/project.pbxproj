@@ -15,6 +15,8 @@
 		478D00EF244CA6F900F58A2D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 478D00ED244CA6F900F58A2D /* LaunchScreen.storyboard */; };
 		478D00FA244CA6F900F58A2D /* SpaceInvadersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 478D00F9244CA6F900F58A2D /* SpaceInvadersTests.swift */; };
 		478D0105244CA6F900F58A2D /* SpaceInvadersUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 478D0104244CA6F900F58A2D /* SpaceInvadersUITests.swift */; };
+		478D0115244CC48200F58A2D /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 478D0114244CC48200F58A2D /* Game.swift */; };
+		478D0117244CCF3300F58A2D /* Alian.swift in Sources */ = {isa = PBXBuildFile; fileRef = 478D0116244CCF3300F58A2D /* Alian.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		478D0100244CA6F900F58A2D /* SpaceInvadersUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SpaceInvadersUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		478D0104244CA6F900F58A2D /* SpaceInvadersUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpaceInvadersUITests.swift; sourceTree = "<group>"; };
 		478D0106244CA6F900F58A2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		478D0114244CC48200F58A2D /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
+		478D0116244CCF3300F58A2D /* Alian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alian.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				478D00EB244CA6F900F58A2D /* Assets.xcassets */,
 				478D00ED244CA6F900F58A2D /* LaunchScreen.storyboard */,
 				478D00F0244CA6F900F58A2D /* Info.plist */,
+				478D0114244CC48200F58A2D /* Game.swift */,
+				478D0116244CCF3300F58A2D /* Alian.swift */,
 			);
 			path = SpaceInvaders;
 			sourceTree = "<group>";
@@ -262,6 +268,8 @@
 				478D00E7244CA6F800F58A2D /* ViewController.swift in Sources */,
 				478D00E3244CA6F800F58A2D /* AppDelegate.swift in Sources */,
 				478D00E5244CA6F800F58A2D /* SceneDelegate.swift in Sources */,
+				478D0115244CC48200F58A2D /* Game.swift in Sources */,
+				478D0117244CCF3300F58A2D /* Alian.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
